@@ -15,4 +15,4 @@ hello people! hello git!
 hello people! hello git!
 hello people! hello git!
 hello people! hello git! master test
-hello people! hello git!
+hello people! hello git! hot-fix test
